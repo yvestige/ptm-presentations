@@ -1,6 +1,6 @@
 # Peer Tutoring - Computer Science
 
-Hello PEER Tutors! Here are the custom-drawn PowerPoint presentations. Take note that the average number of slides are 230+ but they can be presented in less than 1 hour. The number is high due to extra slide animations only.
+Hello PEER Tutors! Here are the custom-drawn PowerPoint presentations. Take note that the average number of slides are 230+ but they can be presented in less than 1 hour (except the pointers and linked lists part because it requires in-depth F2F tablet drawings, but still it depends on the presenter). The number is high due to extra slide animations only.
 
 ## Helpers
 
