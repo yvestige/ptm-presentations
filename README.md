@@ -15,3 +15,8 @@ Discover useful helper scripts in the `Helpers` folder. These scripts are design
 
 Access presentation files and materials in the `Presentations` folder. This folder contains the slides, documents, and other resources used in our tutoring sessions. Feel free to review these materials to reinforce your understanding of the topics covered during our presentations.
 
+### Available Presentations:
+
+- **CMSC 12** - Strings, Lists, Dictionaries (Yves)
+- **CMSC 21** - Arrays and Strings (Yves)
+- **CMSC 21** - Pointers and Linked Lists (Yves)
